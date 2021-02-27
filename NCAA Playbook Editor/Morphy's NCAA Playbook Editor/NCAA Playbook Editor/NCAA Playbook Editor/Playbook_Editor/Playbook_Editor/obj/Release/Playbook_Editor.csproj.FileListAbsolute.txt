@@ -1,0 +1,80 @@
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe.config
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.pdb
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmCreatePSAL.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditFormation.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPlay.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmLoading.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPlaybook.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPSAL.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.Properties.Resources.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPSALVisualizer.resources
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.exe
+C:\Users\Chris\source\repos\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.pdb
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csprojAssemblyReference.cache
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmCreatePSAL.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditFormation.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPlay.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmLoading.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPlaybook.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPSAL.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.Properties.Resources.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPSALVisualizer.resources
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.GenerateResource.cache
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.exe
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.pdb
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe.config
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe
+C:\Users\david\Downloads\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.pdb
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmCreatePSAL.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditFormation.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPlay.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmLoading.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPlaybook.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPSAL.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPSALVisualizer.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.exe
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.pdb
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe.config
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe
+C:\Users\david\OneDrive\Desktop\NCAA Mods\Playbook_Editor-20201231T031052Z-001\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.pdb
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe.config
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.pdb
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmCreatePSAL.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditFormation.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPlay.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmLoading.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPlaybook.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPSAL.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPSALVisualizer.resources
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.exe
+C:\Users\david\OneDrive\Desktop\NCAA Mods\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.pdb
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe.config
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.exe
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\bin\Release\Playbook_Editor.pdb
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csprojAssemblyReference.cache
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmCreatePSAL.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditFormation.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPlay.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmLoading.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPlaybook.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmEditPSAL.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.Properties.Resources.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.frmPSALVisualizer.resources
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.GenerateResource.cache
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.exe
+C:\Users\david\Downloads\NCAA Playbook Editor\Playbook_Editor\Playbook_Editor\obj\Release\Playbook_Editor.pdb

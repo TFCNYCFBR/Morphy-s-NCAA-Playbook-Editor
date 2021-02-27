@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\bin\Debug\PSAL_Visualizer.exe.config
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\bin\Debug\PSAL_Visualizer.exe
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\bin\Debug\PSAL_Visualizer.pdb
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\PSAL_Visualizer.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\PSAL_Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\PSAL_Visualizer.exe
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\PSAL_Visualizer.pdb
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\PSAL_Visualizer.Properties.Resources.resources
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\Playbook_Editor.Playbook.resources
+C:\Users\Chris\source\repos\PSAL_Visualizer\PSAL_Visualizer\obj\Debug\Playbook_Editor.PSALVis.resources
