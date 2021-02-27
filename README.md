@@ -1,4 +1,4 @@
-Morphy-s-NCAA-Playbook-Editor
+Morphy-s-NCAA-Playbook-Editor (Currently ONLY FOR PS3 & PC Users*)
 
 Basic Video for Custom Playbooks: https://www.youtube.com/watch?v=JuDwD43noc4
 
@@ -7,3 +7,4 @@ Instructional Google Doc for Playbook Editor: https://docs.google.com/document/d
 Credit for the NCAA Playbook Editor goes to Morphy & Cinco Uno
 
 
+*Will be available for XBOX 360 Users when a streamlined way to play off of a USB (or transfer game files via USB) is discovered -- if there's a way please contact @TFCNY on Discord
