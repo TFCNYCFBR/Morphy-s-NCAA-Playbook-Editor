@@ -1,3 +1,8 @@
+HOW TO FIND THE EXE IN THE FOLDER:
+
+NCAA Playbook Editor (folder) --> NCAA Playbook Editor (folder) --> Playbook_Editor (folder) --> Playbook_Editor (folder) --> bin (folder) --> Release
+
+
 Morphy-s-NCAA-Playbook-Editor (Currently ONLY FOR PS3 & PC Users*)
 DISCLAIMERS:
 Currently can only be used for offense -- do not try to edit defenses with this editor you will get an unhandled exception error
